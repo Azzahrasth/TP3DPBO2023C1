@@ -6,7 +6,8 @@ Saya Azzahra Siti Hadjar 2100901 mengerjakan Tugas Praktikum 3 dalam mata kuliah
 Program ini dibuat dengan mengimplementasikan ePHP GUI yang terintegrasikan dengan database MySQL
 
 ## Desain Database
-![alt text](https://github.com/MRayhanNurUPI/TP3DPBO2023C1/blob/main/desain_db.png)
+<img width="287" alt="desain_db" src="https://github.com/Azzahrasth/TP3DPBO2023C1/assets/100898963/9719f004-1064-47ed-a059-f857728b0708">
+
 
 ## Penjelasan Program
 1) Program mengambil tema album kpop dimana berisi informasi mengenai judul, harga, cover album serta grup dan agensi nya.
