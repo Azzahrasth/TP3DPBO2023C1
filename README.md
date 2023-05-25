@@ -3,7 +3,7 @@
 Saya Azzahra Siti Hadjar 2100901 mengerjakan Tugas Praktikum 3 dalam mata kuliah Desain Pemrograman Beriorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Tujuan
-Program ini dibuat dengan mengimplementasikan ePHP GUI yang terintegrasikan dengan database MySQL
+Program ini dibuat dengan mengimplementasikan PHP GUI yang terintegrasikan dengan database MySQL
 
 ## Desain Database
 <img width="287" alt="desain_db" src="https://github.com/Azzahrasth/TP3DPBO2023C1/assets/100898963/9719f004-1064-47ed-a059-f857728b0708">
