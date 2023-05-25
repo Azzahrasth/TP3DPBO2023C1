@@ -13,7 +13,7 @@ Program ini dibuat dengan mengimplementasikan PHP GUI yang terintegrasikan denga
 1) Program mengambil tema album kpop dimana berisi informasi mengenai judul, harga, cover album serta grup dan agensi nya.
 2) Menggunakan 3 buah tabel yaitu album, grup, dan agensi.
 3) Terdapat proses CRUD pada setiap tabel nya.
-4) Halaman Tambah dan Ubah Data album menggunakan template/skin yang sama yaitu skinform.html.
+4) Halaman tambah dan edit data Album menggunakan template/skin yang sama yaitu skinform.html.
 5) Halaman Daftar Grup dan Agensi menggunakan template/skin yang sama yaitu skintabel.html.
 6) Terdapat fungsi searching untuk setiap tabel dan fungsi sorting khusus untuk mengurutkan album berdasarkan judul dan harga. 
 
